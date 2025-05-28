@@ -86,9 +86,8 @@ To explore a project:
 ## 👨‍💻 Author
 
 **David Sayndee**  
-Aspiring Cybersecurity Professional | IT Support Specialist  
-📧 [davidsayndee@hotmail.com](mailto:davidsayndee@hotmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/your-link) *(Replace with your actual LinkedIn URL)*
+Aspiring Cybersecurity Professional | Cloud/DevOps Engineer  
+📧 [thepsalmist33@gmail.com](mailto:thepsalmist33@gmail.com)  
 
 ---
 
