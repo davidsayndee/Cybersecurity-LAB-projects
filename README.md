@@ -86,7 +86,7 @@ To explore a project:
 ## 👨‍💻 Author
 
 **David Sayndee**  
-Aspiring Cybersecurity Professional | Cloud/DevOps Engineer  
+Aspiring Cybersecurity Professional | Cloud Engineer  
 📧 [thepsalmist33@gmail.com](mailto:thepsalmist33@gmail.com)  
 
 ---
